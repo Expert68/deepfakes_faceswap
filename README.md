@@ -1,5 +1,5 @@
 # deepfakes_faceswap
-This is the code from [deepfakes' faceswap project](https://www.reddit.com/user/deepfakes/).
+This is the code from [deepfakes' faceswap project](https://voat.co/v/deepfake).
 Hope we can improve it together, HAVE FUN!
 
 Message from deepfakes:
